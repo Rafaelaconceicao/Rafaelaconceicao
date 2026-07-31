@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Rafaela da Conceição dos Santos
+# 👩🏽‍💻 Rafaela Conceição 
 
 **📚 Bibliotecária em formação | 💻 Desenvolvedora em formação | 📂 Gestão da Informação e Tecnologia**
 
