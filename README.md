@@ -33,9 +33,6 @@ Me chamo Rafaela da Conceição dos Santos, tenho 24 anos e sou natural de Salva
 
 ---
 
-## 📊 Estatísticas
-
-## 📊 Estatísticas
 
 ## 📊 Estatísticas
 
