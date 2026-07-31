@@ -20,6 +20,7 @@ Me chamo Rafaela da Conceição dos Santos, tenho 24 anos e sou natural de Salva
 
 <br/><br/>
 
+
 ### 📚 Biblioteconomia e Gestão da Informação
 
 - 📖 Catalogação (AACR2)
@@ -33,20 +34,6 @@ Me chamo Rafaela da Conceição dos Santos, tenho 24 anos e sou natural de Salva
 
 ---
 
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Rafaelaconceicao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelaconceicao&layout=compact&theme=tokyonight"
-  />
-</p>
 
 ## 🎯 Áreas de Interesse
 
