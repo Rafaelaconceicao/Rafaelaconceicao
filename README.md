@@ -38,12 +38,12 @@ Me chamo Rafaela da Conceição dos Santos, tenho 24 anos e sou natural de Salva
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=rafaelasantos&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=rafaelaconceicao&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true&hide_border=true"
   />
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelasantos&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tecnologias"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaconceicao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tecnologias"
   />
 </p>
 
