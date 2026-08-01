@@ -6,9 +6,10 @@ Hi There! I'm Rafaela.
 
 I'm currently pursuing a Bachelor's degree in Library and Information Science at UFBA while also studying Systems Development at SENAI. I am interested in combining **Information Management**, **Library and Information Science**, and **Technology** to develop solutions for information organization, preservation, retrieval, and analysis.
 
-Currently, I am studying software development, databases, and programming, while also working with records management, information organization, metadata, and digital preservation.
+Currently, I am studying software development, databases, and programming, as well as learning about records management, information organization, metadata, and digital preservation.
 
 On GitHub, I use this space to practice programming, explore new technologies, and build projects as I continue developing my skills.
+
 ---
 
 ## 📫 Contact
