@@ -5,7 +5,6 @@
 Me chamo Rafaela da Conceição dos Santos, tenho 24 anos e sou natural de Salvador/BA. Sou graduanda em Biblioteconomia e Documentação e estudante do curso técnico em Desenvolvimento de Sistemas. Tenho interesse em unir Gestão da informação, Biblioteconomia e Tecnologia, desenvolvendo soluções para organização, preservação, recuperação e análise de informações. Atualmente estudo desenvolvimento de software, banco de dados e programação, além de atuar com gestão documental, organização da informação, metadados e preservação digital.
 
 ---
-## 📫 Contato
 
 ## 📫 Contato
 
