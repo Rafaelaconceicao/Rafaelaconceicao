@@ -1,12 +1,18 @@
 # 👩🏽‍💻 Rafaela Conceição
 
-**📚 Bibliotecária em formação | 💻 Desenvolvedora em formação | 📂 Gestão da Informação e Tecnologia**
+**📚 Librarian & Documentalist | 💻 Developer in Training | 📂 Information Management & Technology**
 
-Me chamo Rafaela da Conceição dos Santos, tenho 24 anos e sou natural de Salvador/BA. Sou graduanda em Biblioteconomia e Documentação e estudante do curso técnico em Desenvolvimento de Sistemas. Tenho interesse em unir Gestão da informação, Biblioteconomia e Tecnologia, desenvolvendo soluções para organização, preservação, recuperação e análise de informações. Atualmente estudo desenvolvimento de software, banco de dados e programação, além de atuar com gestão documental, organização da informação, metadados e preservação digital.
+Hi There! I´m Rafaela.
+
+I'm currently pursuing a Bachelor's degree in Library and Information Science at UFBA while also studying Systems Development at SENAI. I am interested in combining **Information Management**, **Library and Information Science**, and **Technology** to develop solutions for information organization, preservation, retrieval, and analysis.
+
+Currently, I am studying **software development**, **databases**, and **programming**, while also working with **records management**, **information organization**, **metadata**, and **digital preservation**.
+
+On GitHub, I share my projects with the goal of learning, growing, and creating an impact through quality code.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <a href="https://www.linkedin.com/in/rafaela-santos-5657451ab" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,9 +23,8 @@ Me chamo Rafaela da Conceição dos Santos, tenho 24 anos e sou natural de Salva
 </a>
 
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies & Tools
 
-### 💻 Desenvolvimento
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
@@ -32,26 +37,24 @@ Me chamo Rafaela da Conceição dos Santos, tenho 24 anos e sou natural de Salva
 <br/><br/>
 
 
-### 📚 Biblioteconomia e Gestão da Informação
+### 📚 Librarian and Information Management
 
-- 📖 Catalogação (AACR2)
-- 🗂️ Classificação (CDD e CDU)
-- 🏛️ Gestão Documental
-- 📑 Preservação Digital
-- 🔍 Organização e Recuperação da Informação
-- 🏢 Sistemas Pergamum e Biblivre
-- 📊 Metadados
-- 📈 Gestão de Projetos
-
+- 📖 Cataloging (AACR2)
+- 🗂️ Classification (DDC)
+- 🏛️ Records Management
+- 📑 Digital Preservation
+- 🔍 Information Organization & Retrieval
+- 🏢 Pergamum & Biblivre Library Systems
+- 📊 Metadata
+- 📈 Project Management
 ---
 
+## 🎯 Areas of Interest
 
-## 🎯 Áreas de Interesse
-
-- 📚 Biblioteconomia
-- 🗃️ Gestão Documental
-- 💾 Preservação Digital
-- 📊 Ciência de Dados aplicada à Informação
-- 💻 Desenvolvimento de Software
-- 🤖 Tecnologia para Unidades de Informação
-- 📈 Gestão de Projetos
+- 📚 Library and Information Science
+- 🗃️ Records Management
+- 💾 Digital Preservation
+- 📊 Data Science for Information Management
+- 💻 Software Development
+- 🤖 Technology for Information Centers
+- 📈 Project Management
