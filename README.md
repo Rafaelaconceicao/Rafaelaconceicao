@@ -1,13 +1,16 @@
 # 👩🏽‍💻 Rafaela Conceição
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-a4004a?style=for-the-badge&logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/rafaela-santos-5657451ab)
-[![gmail](https://img.shields.io/badge/Gmail-a4004a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:conceicaorafaela915@gmail.com)
-
 **📚 Bibliotecária em formação | 💻 Desenvolvedora em formação | 📂 Gestão da Informação e Tecnologia**
 
 Me chamo Rafaela da Conceição dos Santos, tenho 24 anos e sou natural de Salvador/BA. Sou graduanda em Biblioteconomia e Documentação e estudante do curso técnico em Desenvolvimento de Sistemas. Tenho interesse em unir Gestão da informação, Biblioteconomia e Tecnologia, desenvolvendo soluções para organização, preservação, recuperação e análise de informações. Atualmente estudo desenvolvimento de software, banco de dados e programação, além de atuar com gestão documental, organização da informação, metadados e preservação digital.
 
 ---
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafaela-santos-5657451ab)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](conceicaorafaela915@gmail.com)
+
 
 ## 🚀 Tecnologias e Ferramentas
 
