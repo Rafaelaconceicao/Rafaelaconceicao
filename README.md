@@ -1,4 +1,7 @@
-# 👩🏽‍💻 Rafaela Conceição 
+# 👩🏽‍💻 Rafaela Conceição
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-a4004a?style=for-the-badge&logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/rafaela-santos-5657451ab)
+[![gmail](https://img.shields.io/badge/Gmail-a4004a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:conceicaorafaela915@gmail.com)
 
 **📚 Bibliotecária em formação | 💻 Desenvolvedora em formação | 📂 Gestão da Informação e Tecnologia**
 
